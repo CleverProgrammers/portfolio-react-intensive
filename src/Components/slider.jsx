@@ -88,7 +88,7 @@ export default function slider() {
                       <img
                         className='img-fluid'
                         src={sliderImg01}
-                        alt='jack harper'
+                        alt='David Rakosi'
                       />
                     </div>
                   </div>
@@ -141,24 +141,15 @@ export default function slider() {
                     <div className='slider-left'>
                       <div className='name'>
                         <h1>
-                          Jack <br /> Harper<span className='pc'>.</span>
+                          David <br /> Rakosi<span className='pc'>.</span>
                         </h1>
                       </div>
                       <div className='dash'></div>
                       <div className='social-links mb-40'>
-                        <a href='https://www.instagram.com/tortoiz'>
-                          Instagram
-                        </a>{' '}
-                        |{' '}
-                        <a href='https://www.linkedin.com/in/shailendra-bhardwaj-4539611a0/'>
-                          LinkedIn
-                        </a>{' '}
-                        <br />
-                        <a href='https://behance.net/tortoizthemes'>
-                          Behance
-                        </a>{' '}
-                        |{' '}
-                        <a href='https://dribbble.com/TortoizTeam'>Dribbble</a>
+                        <a href='https://www.instagram.com/'>Instagram</a> |{' '}
+                        <a href='https://www.linkedin.com/'>LinkedIn</a> <br />
+                        <a href='https://behance.net/'>Behance</a> |{' '}
+                        <a href='https://dribbble.com/'>Dribbble</a>
                       </div>
                       <div className='slider-cta'>
                         <Link
@@ -180,7 +171,7 @@ export default function slider() {
                       <img
                         className='img-fluid'
                         src={sliderImg01}
-                        alt='jack harper'
+                        alt='David Rakosi'
                       />
                     </div>
                   </div>
@@ -194,9 +185,13 @@ export default function slider() {
                           Full Stack Web <br /> Developer
                         </h2>
                         <p className='pr-20'>
-                          Lorem ipsum dolor sit amet, consectetur adip cing
-                          elit, sed do eiusmod tempor incidid unt ut labore et
-                          dolorepore magna aliqua.
+                          Welcome to my developer portfolio! I am a highly
+                          skilled and experienced software engineer with a
+                          passion for building innovative and scalable
+                          solutions. On this page, you will find examples of my
+                          work and a summary of my technical skills and
+                          experience. Thank you for taking the time to visit and
+                          learn more about my background and capabilities.
                         </p>
                       </div>
                       <div className='intro-button'>
@@ -228,24 +223,15 @@ export default function slider() {
                     <div className='slider-left'>
                       <div className='name'>
                         <h1>
-                          Jack <br /> Harper<span className='pc'>.</span>
+                          David <br /> Rakosi<span className='pc'>.</span>
                         </h1>
                       </div>
                       <div className='dash'></div>
                       <div className='social-links mb-40'>
-                        <a href='https://www.instagram.com/tortoiz'>
-                          Instagram
-                        </a>{' '}
-                        |{' '}
-                        <a href='https://www.linkedin.com/in/shailendra-bhardwaj-4539611a0/'>
-                          LinkedIn
-                        </a>{' '}
-                        <br />
-                        <a href='https://behance.net/tortoizthemes'>
-                          Behance
-                        </a>{' '}
-                        |{' '}
-                        <a href='https://dribbble.com/TortoizTeam'>Dribbble</a>
+                        <a href='https://www.instagram.com'>Instagram</a> |{' '}
+                        <a href='https://www.linkedin.com'>LinkedIn</a> <br />
+                        <a href='https://behance.net'>Behance</a> |{' '}
+                        <a href='https://dribbble.com'>Dribbble</a>
                       </div>
                       <div className='slider-cta'>
                         <Link
@@ -267,7 +253,7 @@ export default function slider() {
                       <img
                         className='img-fluid'
                         src={sliderImg01}
-                        alt='jack harper'
+                        alt='David Rakosi'
                       />
                     </div>
                   </div>
@@ -281,9 +267,13 @@ export default function slider() {
                           Full Stack Web <br /> Developer
                         </h2>
                         <p className='pr-20'>
-                          Lorem ipsum dolor sit amet, consectetur adip cing
-                          elit, sed do eiusmod tempor incidid unt ut labore et
-                          dolorepore magna aliqua.
+                          Welcome to my developer portfolio! I am a highly
+                          skilled and experienced software engineer with a
+                          passion for building innovative and scalable
+                          solutions. On this page, you will find examples of my
+                          work and a summary of my technical skills and
+                          experience. Thank you for taking the time to visit and
+                          learn more about my background and capabilities.
                         </p>
                       </div>
                       <div className='intro-button'>
