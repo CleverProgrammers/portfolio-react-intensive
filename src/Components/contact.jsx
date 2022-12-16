@@ -105,7 +105,7 @@ export default function Contact() {
               </div>
               <a
                 className='btn-animation'
-                href='https://www.facebook.com/tortoizthemes'
+                href='https://www.facebook.com/david.rakosi'
               >
                 David Rakosi
               </a>

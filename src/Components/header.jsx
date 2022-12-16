@@ -52,23 +52,7 @@ export default function Header() {
                       {' '}
                       Portfolios{' '}
                     </Link>
-                    <NavDropdown
-                      title={navDropdownTitle}
-                      id='basic-nav-dropdown'
-                    >
-                      <Link
-                        className='dropdown-item'
-                        to='blog'
-                        smooth={true}
-                        duration={2000}
-                        activeClass='active'
-                        spy={false}
-                        offset={5}
-                      >
-                        {' '}
-                        Latest Posts{' '}
-                      </Link>
-                    </NavDropdown>
+
                     <Link
                       className='nav-link'
                       to='contact'
